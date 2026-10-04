@@ -1,0 +1,11 @@
+## Interface: 11200
+## Title: PrimusUnitFrames
+## Notes: Ultra-Responsive Player, Target, Target of Target, Pet & Party Frames
+## Author: Primus
+## Version: 1.0.0
+## OptionalDeps: PrimusCore
+## SavedVariables: PrimusUnitFramesDB
+
+Libs\PrimusCore\Core\PrimusCore.xml
+PrimusUnitBase.lua
+PrimusUnitFrames.lua

@@ -1,0 +1,12 @@
+## Interface: 11200
+## Title: PrimusBags
+## Notes: Unified Continuous Grid, Container & Categorized Inventory with Auto-Sort
+## Author: Primus
+## Version: 1.0.0
+## OptionalDeps: PrimusCore
+## SavedVariables: PrimusBagsDB
+
+Libs\PrimusCore\Core\PrimusCore.xml
+PrimusCategories.lua
+PrimusSort.lua
+PrimusBags.lua

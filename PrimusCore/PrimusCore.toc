@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: PrimusCore
+## Notes: Shared Foundation, Media, Skinner, Mover, and Tooltip Platform for Primus Addons
+## Author: Primus
+## Version: 1.0.0
+## SavedVariables: PrimusGlobalDB
+## SavedVariablesPerCharacter: PrimusCharDB
+
+Core\PrimusCore.xml

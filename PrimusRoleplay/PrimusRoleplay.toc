@@ -1,0 +1,37 @@
+## Interface: 11200
+## Title: PrimusRoleplay
+## Notes: Complete Character Sheet, DiceMaster D20, Directory, & Immersion Suite
+## Author: Primus
+## Version: 1.0.0
+## OptionalDeps: PrimusCore
+## SavedVariables: PrimusRoleplayDB
+
+Libs\PrimusCore\Core\PrimusCore.xml
+PrimusConstants.lua
+PrimusIcons.lua
+PrimusProtocols.lua
+PrimusComms.lua
+PrimusIconPicker.lua
+PrimusCardPreview.lua
+PrimusRPWidgets.lua
+PrimusRPTabIdentity.lua
+PrimusRPTabAppearance.lua
+PrimusRPTabPersonality.lua
+PrimusRPTabLore.lua
+PrimusRPTabRules.lua
+PrimusRPTabMatchmaking.lua
+PrimusRPTabSettings.lua
+PrimusRPSheet.lua
+PrimusGlance.lua
+PrimusTooltip.lua
+PrimusDirFlyout.lua
+PrimusMapPins.lua
+PrimusDirectory.lua
+PrimusEmotes.lua
+PrimusListener.lua
+PrimusElephant.lua
+PrimusDice.lua
+PrimusExtended.lua
+PrimusImporter.lua
+PrimusTray.lua
+PrimusRoleplay.lua

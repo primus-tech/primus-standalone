@@ -1,0 +1,24 @@
+## Interface: 11200
+## Title: PrimusCombat
+## Notes: Tactical Combat HUD, CastBar, Cooldown Pulse, Threat Meter & HealComm
+## Author: Primus
+## Version: 1.0.0
+## OptionalDeps: PrimusCore
+## SavedVariables: PrimusCombatDB
+
+Libs\PrimusCore\Core\PrimusCore.xml
+PrimusCombatLog.lua
+PrimusCombatAuras.lua
+PrimusThreat.lua
+PrimusHealComm.lua
+PrimusCastBar.lua
+PrimusCooldowns.lua
+PrimusRange.lua
+PrimusTactical.lua
+PrimusAuras.lua
+PrimusWings.lua
+PrimusMiniBars.lua
+PrimusActiveAssist.lua
+PrimusTimers.lua
+PrimusTriage.lua
+PrimusHud.lua

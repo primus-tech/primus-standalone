@@ -1,0 +1,15 @@
+## Interface: 11200
+## Title: PrimusMerchant
+## Notes: Economy, Auction House 10s Scanner, Valuation & Offline Market Explorer
+## Author: Primus
+## Version: 1.0.0
+## OptionalDeps: PrimusCore
+## SavedVariables: PrimusMerchantDB
+
+Libs\PrimusCore\Core\PrimusCore.xml
+PrimusMerchantData.lua
+PrimusMerchantScan.lua
+PrimusMerchantGraph.lua
+PrimusMerchantSkin.lua
+PrimusMerchantExplorer.lua
+PrimusMerchant.lua

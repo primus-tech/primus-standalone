@@ -1,0 +1,13 @@
+## Interface: 11200
+## Title: PrimusHotbars
+## Notes: Clean Modular Action Bars, Micro Bag Bar, XP Tracker & Stance Handling
+## Author: Primus
+## Version: 1.0.0
+## OptionalDeps: PrimusCore
+## SavedVariables: PrimusHotbarsDB
+
+Libs\PrimusCore\Core\PrimusCore.xml
+PrimusButtons.lua
+PrimusXPBar.lua
+PrimusMicroBags.lua
+PrimusHotbars.lua

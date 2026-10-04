@@ -1,0 +1,20 @@
+## Interface: 11200
+## Title: PrimusTalk
+## Notes: Modern Chat Overhaul, Whisper Tabs, Message Logging & Social Suite
+## Author: Primus
+## Version: 1.0.0
+## OptionalDeps: PrimusCore
+## SavedVariables: PrimusTalkDB
+
+Libs\PrimusCore\Core\PrimusCore.xml
+PrimusTalkCore.lua
+PrimusTalkFrame.lua
+PrimusTalkInput.lua
+PrimusTalkChat.lua
+PrimusTalkChatEvents.lua
+PrimusTalkFilterMenu.lua
+PrimusTalkCopy.lua
+PrimusTalkMessages.lua
+PrimusTalkSocial.lua
+PrimusTalkOptions.lua
+PrimusTalk.lua

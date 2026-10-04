@@ -1,0 +1,50 @@
+## Interface: 11200
+## Title: PrimusQuest
+## Notes: Complete Quest Database, Map Pin Resolution, Quest Tracker & Browser
+## Author: Primus
+## Version: 1.0.0
+## OptionalDeps: PrimusCore
+## SavedVariables: PrimusQuestDB
+
+Libs\PrimusCore\Core\PrimusCore.xml
+DB\init.lua
+DB\items.lua
+DB\units.lua
+DB\objects.lua
+DB\quests.lua
+DB\quests-itemreq.lua
+DB\refloot.lua
+DB\zones.lua
+DB\minimap.lua
+DB\areatrigger.lua
+DB\meta.lua
+DB\enUS\items.lua
+DB\enUS\units.lua
+DB\enUS\objects.lua
+DB\enUS\quests.lua
+DB\enUS\professions.lua
+DB\enUS\zones.lua
+DB-Turtle\items-turtle.lua
+DB-Turtle\units-turtle.lua
+DB-Turtle\objects-turtle.lua
+DB-Turtle\quests-turtle.lua
+DB-Turtle\quests-itemreq-turtle.lua
+DB-Turtle\refloot-turtle.lua
+DB-Turtle\zones-turtle.lua
+DB-Turtle\minimap-turtle.lua
+DB-Turtle\areatrigger-turtle.lua
+DB-Turtle\meta-turtle.lua
+DB-Turtle\enUS\items-turtle.lua
+DB-Turtle\enUS\units-turtle.lua
+DB-Turtle\enUS\objects-turtle.lua
+DB-Turtle\enUS\quests-turtle.lua
+DB-Turtle\enUS\professions-turtle.lua
+DB-Turtle\enUS\zones-turtle.lua
+Overwrites.lua
+Patchtable.lua
+Database.lua
+Map.lua
+Tracker.lua
+Quest.lua
+Browser.lua
+PrimusQuest.lua
