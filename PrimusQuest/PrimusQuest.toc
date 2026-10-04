@@ -6,7 +6,40 @@
 ## OptionalDeps: PrimusCore
 ## SavedVariables: PrimusQuestDB
 
-Libs\PrimusCore\Core\PrimusCore.xml
+Libs\PrimusCore\Core\Bootstrap\Bootstrap.lua
+Libs\PrimusCore\Core\Utils\Utils.lua
+Libs\PrimusCore\Core\Utils\Items.lua
+Libs\PrimusCore\Core\Memory\Memory.lua
+Libs\PrimusCore\Core\Debug\Debug.lua
+Libs\PrimusCore\Core\Time\Time.lua
+Libs\PrimusCore\Core\Events\Events.lua
+Libs\PrimusCore\Core\DB\DB.lua
+Libs\PrimusCore\Core\DB\VanillaItemPrices.lua
+Libs\PrimusCore\Core\DB\BasePriceDB.lua
+Libs\PrimusCore\Core\Media\Media.lua
+Libs\PrimusCore\Core\Media\Audio.lua
+Libs\PrimusCore\Core\Skinner\Skinner.lua
+Libs\PrimusCore\Core\Anim\Anim.lua
+Libs\PrimusCore\Core\Widgets\Widgets.lua
+Libs\PrimusCore\Core\Widgets\ContextMenu.lua
+Libs\PrimusCore\Core\Keybind\Keybind.lua
+Libs\PrimusCore\Core\Console\Console.lua
+Libs\PrimusCore\Core\Comm\ChatThrottleLib.lua
+Libs\PrimusCore\Core\Comm\Comm.lua
+Libs\PrimusCore\Core\Auras\Auras.lua
+Libs\PrimusCore\Core\Chat\Chat.lua
+Libs\PrimusCore\Core\State\State.lua
+Libs\PrimusCore\Core\Hider\Hider.lua
+Libs\PrimusCore\Core\Mover\Mover.lua
+Libs\PrimusCore\Core\Map\Map.lua
+Libs\PrimusCore\Core\Tooltip\TooltipConstants.lua
+Libs\PrimusCore\Core\Tooltip\TooltipSkin.lua
+Libs\PrimusCore\Core\Tooltip\TooltipAnchor.lua
+Libs\PrimusCore\Core\Tooltip\TooltipUnit.lua
+Libs\PrimusCore\Core\Tooltip\TooltipItem.lua
+Libs\PrimusCore\Core\Tooltip\TooltipScanner.lua
+Libs\PrimusCore\Core\Tooltip\Tooltip.lua
+Libs\PrimusCore\Core\Config\Options.lua
 DB\init.lua
 DB\items.lua
 DB\units.lua
